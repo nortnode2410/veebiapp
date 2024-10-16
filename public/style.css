@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+
+.maed {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.konteiner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.matk {
+    width: 20rem;
+}
+
+.matkapilt {
+    display: block;
+    width: 40%;
+}
